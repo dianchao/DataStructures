@@ -45,7 +45,6 @@ public class MiGong {
             }
             System.out.println();
         }
-
     }
 
     //使用递归回溯来给小球找路
