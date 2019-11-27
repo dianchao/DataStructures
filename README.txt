@@ -7,4 +7,8 @@
     |--SingleLinkedListDemo.java：带头结点的单链表
     |--DoubleLinkedListDemo.java: 带头结点的双向链表
     |--Josepfu.java：环型单链表，约瑟夫问题
-
+4.stack
+    |--ArrayStackDemo.java：使用数组实现栈
+    |--Calculator.java：使用栈实现表达式运算（中缀表达式）
+    |--PolandNotation.java：中缀表达式转后缀表达式（逆波兰表达式），逆波兰表达式计算器
+    |--ReversePolishMultiCalc.java：逆波兰器计算器完整版
